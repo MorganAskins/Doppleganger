@@ -1,0 +1,5 @@
+data/*
+cachedFeatures.h5
+cached_img.h5
+*ipynb_checkpoint*
+__pycache__*
